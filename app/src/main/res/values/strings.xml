@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PalembangWater</string>
+    <string-array name="region">
+        <item>Indonesia</item>
+        <item>Malaysia</item>
+        <item>USA</item>
+        <item>Singapore</item>
+    </string-array>
+</resources>
